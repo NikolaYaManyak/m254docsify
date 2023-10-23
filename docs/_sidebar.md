@@ -1,4 +1,3 @@
 * [Home](/)
 
-    * [Beispiel Subfolder](sub/)
-    * [Demos](demos/)
+    * [Abgabe1](Abgabe1/)
